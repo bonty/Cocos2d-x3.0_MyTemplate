@@ -8,12 +8,6 @@
 
 #include "___FILEBASENAME___.h"
 
-___FILEBASENAMEASIDENTIFIER___ *___FILEBASENAMEASIDENTIFIER___::create___FILEBASENAMEASIDENTIFIER___()
-{
-    auto pInstance = ___FILEBASENAMEASIDENTIFIER___::create();
-    return pInstance;
-}
-
 bool ___FILEBASENAMEASIDENTIFIER___::init()
 {
     if ( !<#parent class#>::init() ) {

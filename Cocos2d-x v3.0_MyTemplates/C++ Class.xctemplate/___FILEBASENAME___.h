@@ -17,7 +17,6 @@ class ___FILEBASENAMEASIDENTIFIER___ : public <#parent class#>
 {
 public:
     virtual bool init();
-    static ___FILEBASENAMEASIDENTIFIER___ *create___FILEBASENAMEASIDENTIFIER___();
     CREATE_FUNC(___FILEBASENAMEASIDENTIFIER___);
     <#member functions...#>
 };
