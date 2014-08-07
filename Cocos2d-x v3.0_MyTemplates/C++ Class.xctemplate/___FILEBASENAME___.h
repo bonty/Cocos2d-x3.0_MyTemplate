@@ -11,8 +11,6 @@
 
 #include "cocos2d.h"
 
-using namespace cocos2d;
-
 class ___FILEBASENAMEASIDENTIFIER___ : public <#parent class#>
 {
 public:

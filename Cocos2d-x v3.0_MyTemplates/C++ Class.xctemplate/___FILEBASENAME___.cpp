@@ -8,6 +8,8 @@
 
 #include "___FILEBASENAME___.h"
 
+USING_NS_CC;
+
 bool ___FILEBASENAMEASIDENTIFIER___::init()
 {
     if ( !<#parent class#>::init() ) {
